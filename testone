@@ -1,8 +1,1 @@
-{
-  "Whitelisted" : [
-    PlayerOne : [
-      "ActuallyAverages";
-      "510743647"
-    ]
-  ]
-}
+{"Whitelist":{"P2":["MateiAnyanLi","NOT"],"P3":[0,"NOT"],"P1":["ActuallyAverages",510743647]},"Access":{"P2":[],"P3":[],"P1":["Max","High","Medium","Low"]}} 
